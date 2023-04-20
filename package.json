@@ -1,7 +1,7 @@
 {
-  "name": "git-cz",
-  "version": "4.8.0",
-  "description": "Semantic emojified git commit, git-cz.",
+  "name": "@fazz/git-cz",
+  "version": "1.1.0",
+  "description": "Fazz semantic git commit, git-cz.",
   "main": "dist/cz.js",
   "bin": {
     "git-cz": "./bin/git-cz.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/streamich/git-cz.git"
   },
-  "homepage": "https://github.com/streamich/git-cz",
+  "homepage": "https://github.com/lfkeong/git-cz",
   "license": "Unlicense",
   "scripts": {
     "lint": "yarn eslint",
