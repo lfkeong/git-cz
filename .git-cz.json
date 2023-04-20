@@ -1,4 +1,11 @@
 {
-  "disableEmoji": false,
-  "format": "{type}{scope}: {emoji}{subject}"
+  "disableEmoji": true,
+  "format": "{ticket} {type}{scope}: {subject}",
+  "questions": [
+    "type",
+    "scope",
+    "subject",
+    "body",
+    "issues"
+  ]
 }
