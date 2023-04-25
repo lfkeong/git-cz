@@ -1,6 +1,6 @@
 {
   "name": "@fazz/git-cz",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Fazz semantic git commit, git-cz.",
   "main": "dist/cz.js",
   "bin": {
